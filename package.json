@@ -1,0 +1,17 @@
+{
+	"name": "mongo-skin-wrapper",
+	"version": "0.0.1",
+  "author": { "name": "https://github.com/rayie" },
+	"main": "mongo-skin-wrapper.js",
+  "license": "MIT",
+  "keywords": [
+    "mongodb",
+    "mongoskin"
+  ],
+  "repository": "rayie/mongo-skin-wrapper",
+  "description": "A mongo client wrapper around a mongo client wrapper",
+	"dependencies": {
+		"mongoskin": "~0.6.1",
+		"mongodb": "~2"
+	}
+}
