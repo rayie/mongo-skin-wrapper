@@ -1,0 +1,14 @@
+*.swp
+*.swo
+node_modules
+config/default.js
+config/runtime.json
+.svn
+nohup.out
+public/data_xls
+mckesson
+all_tifs.txt
+all_pdfs.txt
+all_notest.txt
+oa_276_277
+.DS_Store
